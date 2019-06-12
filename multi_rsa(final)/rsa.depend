@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1553604658 source:e:\cse\4_1\cse 4116 (security lab) #############\lab 4 (27.03.2019)\rsa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<gmp.h>
+	<math.h>
+	<assert.h>
+
+1035128404 e:\cse\4_1\cse 4116 (security lab) #############\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1553604660 source:h:\cse 4-1\cse 4116(computer and network security laboratory)\lab 4 (27.03.2019)\rsa\main.cpp
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<gmp.h>
+	<math.h>
+	<assert.h>
+
+1035128404 h:\cse 4-1\cse 4116(computer and network security laboratory)\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
