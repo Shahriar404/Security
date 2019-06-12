@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1556135771 source:c:\users\netlab\desktop\elgamal\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<gmp.h>
+	<set>
+	<sstream>
+	<string>
+	<cmath>
+	<unistd.h>
+	<fcntl.h>
+
+1035178804 c:\users\netlab\desktop\gmp demo\gmplib\gmp\include\gmp.h
+	<iosfwd>
+	<cstddef>
+	<stddef.h>
+
+1560308437 source:e:\study\semesters\4-1\security lab\elgamal\main.cpp
+	<gmp.h>
+	<set>
+	<sstream>
+	<fcntl.h>
+	<bits/stdc++.h>
+
